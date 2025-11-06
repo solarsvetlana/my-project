@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1761906679812,
+      "tag": "0000_unique_violations",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1762164211913,
+      "tag": "0001_nosy_bulldozer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1762246899915,
+      "tag": "0002_long_captain_flint",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1762334475401,
+      "tag": "0003_gorgeous_bastion",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1762336228965,
+      "tag": "0004_strange_zaran",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1762342680454,
+      "tag": "0005_boring_violations",
+      "breakpoints": true
+    }
+  ]
+}
