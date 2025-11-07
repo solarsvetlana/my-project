@@ -1,4 +1,5 @@
 {
+  "homepage": "https://solarsvetlana.github.io/my-project",
   "name": "tabletops-app",
   "version": "0.1.0",
   "private": true,
@@ -8,7 +9,8 @@
     "start": "next start",
     "lint": "eslint",
     "db:generate": "npx drizzle-kit generate",
-    "db:migrate": "npx drizzle-kit migrate"
+    "db:migrate": "npx drizzle-kit migrate",
+    "deploy": "npm run build"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
@@ -31,6 +33,7 @@
     "drizzle-kit": "^0.31.6",
     "eslint": "^9",
     "eslint-config-next": "16.0.0",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4",
     "tsx": "^4.20.6",
     "typescript": "^5"
